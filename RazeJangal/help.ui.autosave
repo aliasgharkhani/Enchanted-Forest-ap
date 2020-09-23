@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Help</class>
+ <widget class="QDialog" name="Help">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>700</width>
+    <height>314</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>657</width>
+    <height>0</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>700</width>
+    <height>1111001</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(136, 138, 133);</string>
+  </property>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>681</width>
+     <height>251</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <property name="spacing">
+     <number>6</number>
+    </property>
+    <property name="sizeConstraint">
+     <enum>QLayout::SetDefaultConstraint</enum>
+    </property>
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>550</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color:rgb(252, 233, 79);
+border-color: rgb(238, 238, 236);</string>
+      </property>
+      <property name="text">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;برای استفاده از دکمه &amp;quot;&lt;font color=&quot;red&quot;&gt;همسایه شون بکن&lt;/font&gt;&amp;quot; ابتدا روی خونه ی اول که میخوای اونو با یه خونه ی دیگه همسایه کنی کلیک کن &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;بعد دکمه &amp;quot;&lt;font color=&quot;red&quot;&gt;همسایه شون بکن &lt;/font&gt;&amp;quot; رو بزن بعد خونه دومو انتخاب کن بعد بازم همون دکمه رو بزن تا اونا با هم همسایه بشن &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;:برای مثال&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;کلیک روی خونه اول&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;کلیک روی &lt;font color=&quot;red&quot;&gt;همسایه شون بکن&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;کلیک روی خونه دوم&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;کلیک روی &lt;font color=&quot;red&quot;&gt;همسایه شون بکن&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;در صورت استفاده از دکمه &amp;quot;&lt;font color=&quot;red&quot;&gt;نقشه اصلی رو بیار&lt;/font&gt;&amp;quot; فقط مکان و رنگ خونه ها نشون داده میشه و هیچ گونه روابط همسایگی &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;بین اون ها وجود نداره ( خودت باید روابط همسایگی همشونو مشخص کنی) و بعد دونه دونه دکمه &amp;quot;&lt;font color=&quot;red&quot;&gt;همسایه شون کن&lt;/font&gt;&amp;quot; رو بزنی&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;ضمناٌ یادت باشه روی گوشه سمت راست بالا(همونجایی که شماره و مختصات خونه رو مینویسه) کلیک نکنی چون مسولیتش&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;به عهده خودته&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;برای اضافه کردن مهره(هر رنگی که میخوای) ابتدا دکمه &amp;quot;&lt;font color=&quot;red&quot;&gt;خونه سبز بیار&lt;/font&gt;&amp;quot; رو بزن بعد اگه خواستی رنگشو عوض کنی&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;با استفاده از دکمه های سمت راست صفحه این کارو بکن&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;اگه دکمه &amp;quot;&lt;font color=&quot;red&quot;&gt;پاک سازی همسایه ها&lt;/font&gt;&amp;quot;  رو بزنی تمام روابط همسایگی پاک میشن&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;اگه نقشه دلخواهت رو چیدی و بعد تمام روابط همسایگی مورد نظرت رو هم درست کردی و تمام رنگ ها رو هم استفاده کردی(باید&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;یه دونه رنگ قرمز/یه دونه رنگ بنفش/۱۳ تا رنگ نارنجی استفاده کنی. تعداد سبز ها دلخواهه) اخر کار برای ذخیره تغییراتت&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;باید دکمه &amp;quot;&lt;font color=&quot;red&quot;&gt;مکان ها و رنگ ها رو ذخیره کن&lt;/font&gt;&amp;quot; رو بزنی&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;&lt;span style=&quot; font-family:'0 Nazanin';&quot;&gt;برای خروج دکمه &amp;quot;&lt;font color=&quot;red&quot;&gt;پایان&lt;/font&gt;&amp;quot; رو بزن&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>10</height>
+       </size>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>663</width>
+         <height>16</height>
+        </rect>
+       </property>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton">
+      <property name="font">
+       <font>
+        <family>0 Nazanin</family>
+       </font>
+      </property>
+      <property name="mouseTracking">
+       <bool>false</bool>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color:rgb(233, 185, 110)</string>
+      </property>
+      <property name="text">
+       <string>فهمیدم . ببند</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

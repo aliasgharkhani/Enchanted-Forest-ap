@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>PNG/glossy_button_blank_blue_circle_T.png</file>
+        <file>PNG/glossy_button_blank_green_circle_T.png</file>
+        <file>PNG/glossy_button_blank_orange_circle_T.png</file>
+        <file>PNG/glossy_button_blank_purple_circle_T.png</file>
+        <file>PNG/glossy_button_blank_red_circle_T.png</file>
+        <file>PNG/Blue.png</file>
+        <file>PNG/Green.png</file>
+        <file>PNG/Orange.png</file>
+        <file>PNG/Red.png</file>
+        <file>PNG/Violet.png</file>
+        <file>PNG/divider.png</file>
+        <file>PNG/divider_resized.png</file>
+        <file>PNG/glossy_button_blank_yellow_circle_T.png</file>
+        <file>PNG/Player_divider.png</file>
+        <file>PNG/Yellow.png</file>
+        <file>PNG/die_face_1_T.png</file>
+        <file>PNG/die_face_2_T.png</file>
+        <file>PNG/die_face_3_T.png</file>
+        <file>PNG/die_face_4_T.png</file>
+        <file>PNG/die_face_5_T.png</file>
+        <file>PNG/die_face_6_T.png</file>
+        <file>PNG/five.png</file>
+        <file>PNG/four.png</file>
+        <file>PNG/one.png</file>
+        <file>PNG/six.png</file>
+        <file>PNG/three.png</file>
+        <file>PNG/two.png</file>
+        <file>PNG/player_1.png</file>
+        <file>PNG/player_2.png</file>
+        <file>PNG/player_3.png</file>
+        <file>PNG/player_4.png</file>
+        <file>newpositions.txt</file>
+        <file>PNG/Yellow_Orange.png</file>
+        <file>PNG/Yellow_player_1.png</file>
+        <file>PNG/Yellow_player_2.png</file>
+        <file>PNG/Yellow_player_3.png</file>
+        <file>PNG/Yellow_Red.png</file>
+        <file>PNG/Yellow_Violet.png</file>
+        <file>PNG/Yellow_player_4.png</file>
+        <file>PNG/error.png</file>
+        <file>PNG/forest-cartoon-pictures-green-1976573.jpg</file>
+    </qresource>
+</RCC>
